@@ -1,4 +1,4 @@
-const nome = "Arthur";
+const nome = "Mario";
 const xp = 7500;
 
 const niveis = [
@@ -20,7 +20,19 @@ while (i < niveis.length) {
         nivel = niveis[i].nome;
         break;
     }
+
     i++;
 }
 
 console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+```
+
+
+## Mario
+
+Experiência: 7.500 XP
+
+O Herói de nome Mario está no nível de Platina 🚀
+
+
+  
